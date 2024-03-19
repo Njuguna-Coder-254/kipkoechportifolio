@@ -17,7 +17,7 @@ import garage from "../assets/garage.webp"
 import hosi from"../assets/hosi.png";
 import ibm from "../assets/ibm.png";
 import hotel from"../assets/hotel.png";
-import travel from"../assets/travel.webp";
+import travel from"../assets/travel.jpg";
 import net from "../assets/net.png";
 import cisco from "../assets/cisco.jpg"
 // Array of work objects
@@ -38,17 +38,17 @@ export const works = [
     duration: "500",
   },
   {
-    title: "Communication Skills Work",
+    title: "My Autobiography Essay",
     imgUrl:hotel,
     tech: ["see my work "],
-    workUrl:"https://www.dkut.ac.ke/",
+    workUrl:"https://eu.docworkspace.com/d/sIAK5iq_dAcGv5q8G",
     duration: "600",
   },
   {
-    title: "Travel app",
+    title: "My Photographic Essay",
     imgUrl:travel,
-    tech: ["HTML5", "CSS", "JavaScript"],
-    
+    tech: ["see my work "],
+    workUrl:"https://eu.docworkspace.com/d/sIAK5iq_dAcGv5q8G",
     duration: "700",
   },
 ];

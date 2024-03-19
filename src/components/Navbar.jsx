@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Logo from "../assets/logo.png";
-import { FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaTimes, FaGithub, FaLinkedin, FaFacebook, FaInstagram } from "react-icons/fa";
 import { BsGridFill } from "react-icons/bs";
 import { HiArrowSmUp, HiMail } from "react-icons/hi";
 import { Link } from "react-scroll";
@@ -142,16 +142,31 @@ const Navbar = () => {
         <ul>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
             <a
-              href="home"
+              href="https://www.linkedin.com/in/alex-kipkoech-towett-2971a7269/"
               className="flex justify-between items-center w-full text-[#3A1078]"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
           </li>
-
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
             <a
-              href="home"
+              href="https://web.facebook.com/?_rdc=1&_rdr/"
+              className="flex justify-between items-center w-full text-[#3A1078]"
+            >
+              Facebook <FaFacebook size={30} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
+            <a
+              href="https://www.instagram.com/"
+              className="flex justify-between items-center w-full text-[#3A1078]"
+            >
+              Instagram <FaInstagram size={30} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
+            <a
+              href="https://github.com/"
               className="flex justify-between items-center w-full text-[#3A1078]"
             >
               Github <FaGithub size={30} />
@@ -161,7 +176,7 @@ const Navbar = () => {
 
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
             <a
-              href="obondi.calvince19@students.dkut.ac.ke" 
+              href="alex.kipkoech20@students.dkut.ac.ke" 
               className="flex justify-between items-center w-full text-[#3A1078]"
             >
               Email <HiMail size={30} />
