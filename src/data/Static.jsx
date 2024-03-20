@@ -17,7 +17,7 @@ import herb from "../assets/herb.png"
 import hosi from"../assets/hosi.png";
 import ibm from "../assets/ibm.png";
 import hotel from"../assets/hotel.png";
-import travel from"../assets/travel.jpg";
+import essay from"../assets/essay.png";
 import net from "../assets/net.png";
 import cisco from "../assets/cisco.jpg"
 // Array of work objects
@@ -46,9 +46,9 @@ export const works = [
   },
   {
     title: "My Photographic Essay",
-    imgUrl:travel,
+    imgUrl:essay,
     tech: ["see my work "],
-    workUrl:"https://eu.docworkspace.com/d/sIAK5iq_dAcGv5q8G",
+    workUrl:"https://eu.docworkspace.com/d/sIHW5iq_dAZrU6q8G",
     duration: "700",
   },
 ];
