@@ -13,7 +13,7 @@ import py from "../assets/langues/py.png";
 import php from "../assets/langues/php.png";
 import java from "../assets/langues/java.png";
 import dekut from "../assets/dekut.png";
-import garage from "../assets/garage.webp"
+import herb from "../assets/herb.png"
 import hosi from"../assets/hosi.png";
 import ibm from "../assets/ibm.png";
 import hotel from"../assets/hotel.png";
@@ -31,10 +31,10 @@ export const works = [
   },
 
   {
-    title: "Garage management System",
-    imgUrl: garage,
-    tech: ["HTML", "CSS", "Bootstrap 5"],
-    
+    title: "Traditional African Medicine ppt",
+    imgUrl:herb,
+    tech: ["see my work "],
+    workUrl:"https://eu.docworkspace.com/d/sIEe5iq_dAefF6q8G",
     duration: "500",
   },
   {
