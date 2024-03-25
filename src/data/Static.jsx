@@ -14,21 +14,15 @@ import php from "../assets/langues/php.png";
 import java from "../assets/langues/java.png";
 import dekut from "../assets/dekut.png";
 import herb from "../assets/herb.png"
-import hosi from"../assets/hosi.png";
 import ibm from "../assets/ibm.png";
 import hotel from"../assets/hotel.png";
 import essay from"../assets/essay.png";
 import net from "../assets/net.png";
 import cisco from "../assets/cisco.jpg"
+import gender from "../assets/gender.png"
 // Array of work objects
 export const works = [
-  {
-    title: "Hospital Management System",
-    imgUrl:hosi,
-    tech: ["HTML", "Javascript", "CSS"],
-   
-    duration: "400",
-  },
+  
 
   {
     title: "Traditional African Medicine ppt",
@@ -51,6 +45,14 @@ export const works = [
     workUrl:"https://eu.docworkspace.com/d/sIHW5iq_dAZrU6q8G",
     duration: "700",
   },
+  {
+    title: "Importance of Gender in African Community",
+    imgUrl:gender,
+    tech: ["see my work "],
+    workUrl:"https://eu.docworkspace.com/d/sIAK5iq_dAe61hLAG",
+    duration: "800",
+  },
+  
 ];
 
 // Array of experience objects

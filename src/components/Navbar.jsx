@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Logo from "../assets/logo.png";
-import { FaTimes, FaGithub, FaLinkedin, FaFacebook, FaInstagram } from "react-icons/fa";
+import { FaTimes, FaGithub, FaLinkedin, FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 import { BsGridFill } from "react-icons/bs";
 import { HiArrowSmUp, HiMail } from "react-icons/hi";
 import { Link } from "react-scroll";
@@ -162,6 +162,14 @@ const Navbar = () => {
               className="flex justify-between items-center w-full text-[#3A1078]"
             >
               Instagram <FaInstagram size={30} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
+            <a
+              href="https://twitter.com/notifications"
+              className="flex justify-between items-center w-full text-[#3A1078]"
+            >
+              Twitter <FaTwitter size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-slate-200 rounded-e-2xl font-semibold">
