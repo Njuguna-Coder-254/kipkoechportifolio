@@ -18,6 +18,7 @@ import ibm from "../assets/ibm.png";
 import hotel from"../assets/hotel.png";
 import essay from"../assets/essay.png";
 import net from "../assets/net.png";
+import travel from "../assets/travel.jpg";
 import cisco from "../assets/cisco.jpg"
 import gender from "../assets/gender.png"
 // Array of work objects
@@ -50,6 +51,27 @@ export const works = [
     imgUrl:gender,
     tech: ["see my work "],
     workUrl:"https://eu.docworkspace.com/d/sIAK5iq_dAe61hLAG",
+    duration: "800",
+  },
+  {
+    title: "Part 4",
+    imgUrl:travel,
+    tech: ["see my work "],
+    workUrl:"https://youtu.be/P2Zbj62agvc",
+    duration: "800",
+  },
+  {
+    title: "Part 6",
+    imgUrl:travel,
+    tech: ["see my work "],
+    workUrl:"https://youtu.be/P2Zbj62agvc",
+    duration: "800",
+  },
+  {
+    title: "Part 8",
+    imgUrl:travel,
+    tech: ["see my work "],
+    workUrl:"https://youtu.be/P2Zbj62agvc",
     duration: "800",
   },
   
