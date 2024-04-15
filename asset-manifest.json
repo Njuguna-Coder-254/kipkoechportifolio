@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/kipkoechportifolio/static/css/main.8ac3e604.css",
-    "main.js": "/kipkoechportifolio/static/js/main.621a5840.js",
+    "main.js": "/kipkoechportifolio/static/js/main.d8c4633a.js",
     "static/media/herb.png": "/kipkoechportifolio/static/media/herb.604f6110a0c4d9426fc9.png",
     "static/media/py.png": "/kipkoechportifolio/static/media/py.d8b377f05522bf35de36.png",
     "static/media/essay.png": "/kipkoechportifolio/static/media/essay.f558bb0c1225659372b3.png",
+    "static/media/travel.jpg": "/kipkoechportifolio/static/media/travel.7b8e370d3be857480733.jpg",
     "static/media/pic1.jpeg": "/kipkoechportifolio/static/media/pic1.2af7cf1f2e1c373c6807.jpeg",
     "static/media/bootstrap.png": "/kipkoechportifolio/static/media/bootstrap.cb0fcc269e8250f3551b.png",
     "static/media/dekut.png": "/kipkoechportifolio/static/media/dekut.5d840a117316fe471016.png",
@@ -24,10 +25,10 @@
     "static/media/java.png": "/kipkoechportifolio/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/kipkoechportifolio/index.html",
     "main.8ac3e604.css.map": "/kipkoechportifolio/static/css/main.8ac3e604.css.map",
-    "main.621a5840.js.map": "/kipkoechportifolio/static/js/main.621a5840.js.map"
+    "main.d8c4633a.js.map": "/kipkoechportifolio/static/js/main.d8c4633a.js.map"
   },
   "entrypoints": [
     "static/css/main.8ac3e604.css",
-    "static/js/main.621a5840.js"
+    "static/js/main.d8c4633a.js"
   ]
 }
